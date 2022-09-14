@@ -22,4 +22,4 @@ If you then allow the job to run a few more times, the server will stop acceptin
 
 See video:
 
-![Reproduction](reproduction.gif)
+![Reproduction](repo.mp4)
