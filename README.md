@@ -2,12 +2,13 @@ This is a reproduction repo for https://github.com/frankhommers/Hangfire.Postgre
 
 To run:
 
-Install Postgres 14. 
-Username and password should be postgres/postgres, but you can change this if you want, just change the connection string.
+Install Postgres 14 (lower is probably fine). 
 
-Create a database called "hangfire"
+Create a database called "hangfiredemo"
 
 Check in postgres (pgadmin is fine) the connections. You don't need PGBouncer or anything. You will see no connections (apart from pgadmin)
+
+![No conns](pgadmin1.png)
 
 Run the project.
 
